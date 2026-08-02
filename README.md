@@ -32,7 +32,7 @@ VRFB-mini-GraphRAG/
 ```sh
 # Clone the repository and set up a virtual environment
 
-git clone <your-repository-url>
+git clone https://github.com/mong1913/VRFB-mini-GraphRAG.git
 cd VRFB-mini-GraphRAG
 
 python3 -m venv venv
