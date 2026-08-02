@@ -35,11 +35,13 @@ VRFB-mini-GraphRAG/
 git clone https://github.com/mong1913/VRFB-mini-GraphRAG.git
 cd VRFB-mini-GraphRAG
 
-python3 -m venv venv
+python3.12 -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
 
 pip install --upgrade pip
 pip install ipykernel
+
+code .
 ```
 
 **3. Configure Credentials**
