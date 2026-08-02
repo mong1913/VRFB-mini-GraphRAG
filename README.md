@@ -43,6 +43,7 @@ pip install ipykernel
 
 code .
 ```
+(*If code . gives "command not found", either open the project root directly in VS Code or install the code shell command via Command Palette -> "Shell Command: Install 'code' command in PATH"*)
 
 **3. Configure Credentials**
 - Copy .env.example to create your local .env file
